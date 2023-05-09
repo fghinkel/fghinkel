@@ -1,5 +1,5 @@
 ### Hi there 👋
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
+<img width="30" height="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
 
 <!--
 **fghinkel/fghinkel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

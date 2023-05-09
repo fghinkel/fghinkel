@@ -1,4 +1,3 @@
-### Hi there 👋
 <div align="center"> 
 <h3>Linguagens com que já trabalhei</h3>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>

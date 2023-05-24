@@ -7,6 +7,7 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 </div>
 
+<hr>
 <div align="center">
   <a href="https://github.com/nataniohan">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fghinkel&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>

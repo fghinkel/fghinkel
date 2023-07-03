@@ -5,6 +5,7 @@
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-original.svg"/>
 <img width="50" height="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img width="50" height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/postgresql/postgresql-original.svg" />
+<img width="50" height="50" src="https://github.com/devicons/devicon/blob/v2.15.1/icons/laravel/laravel-plain.svg" />
   
 </div>
 
